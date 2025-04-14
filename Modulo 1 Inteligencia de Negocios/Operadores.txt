@@ -1,0 +1,15 @@
+/*
+Operador Relacional			Simbolo			Mnemonico Equivalente		PROC SQL
+
+Igual						=				EQ
+Diferente					^=				NE		<>
+Menor que					<				LT
+Mayor que					>				GT
+Menor o igual 					<=				LE
+Mayor o igual 					>=				GE
+Igual a uno en la lista				IN				
+En un rango					BETWEEN			
+
+NOTA: El operador BETWEEN no es valido en el paso de datos.
+Solo lo podremos usar en el PROC SQL
+*/
