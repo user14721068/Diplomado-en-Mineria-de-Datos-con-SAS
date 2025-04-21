@@ -2,7 +2,6 @@
 Diplomado en Minería de Datos con SAS
 Módulo 1: Inteligencia de Negocios
 Evaluación Final Parte 3: Reportes SAS
-Alumno: Nicolás Cruz Ramírez
 */
 
 
